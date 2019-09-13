@@ -12,4 +12,6 @@ A Python bioinformatics script for translating DNA nucleotides sequence into RNA
 
 ## Sample:
 
+src.txt contains a sample DNA sequence of E. Coli (<i>Escherichia coli</i>) K12, nucleotides 0 to 10,000, a non=pathogenic strain that cannot survive in your digestive tract.
+
 Try <code> python translate.py src.txt --rna</code> or <code>python translate.py src.txt --protein</code>.
