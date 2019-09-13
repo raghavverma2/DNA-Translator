@@ -12,4 +12,4 @@ A simple Python bioinformatics script to translate DNA nucleotides into RNA or p
 
 ## Sample:
 
-Try <code> python translate.py src.txt --rna</code> and <code>python translate.py src.txt --protein</code>.
+Try <code> python translate.py src.txt --rna</code> or <code>python translate.py src.txt --protein</code>.
