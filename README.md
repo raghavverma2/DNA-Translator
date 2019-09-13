@@ -1,6 +1,6 @@
 # DNA-Translator
 
-A simple Python bioinformatics script to translate DNA nucleotides into RNA or proteins.
+A Python bioinformatics script for translating DNA nucleotides sequence into RNA or proteins.
 
 ## Usage:
 
